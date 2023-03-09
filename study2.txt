@@ -2,6 +2,7 @@ i'm okay_aaa___AAA
 안녕하세요_Line_TEST
 Thank you___
 
-"MergeTest of Line"
+"MergeTest of Line" 
+"MergeTest of File"
 AddLine!!
 aaaa___aaa
